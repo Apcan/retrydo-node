@@ -1,0 +1,11 @@
+{
+  "name": "retrydo",
+  "version": "0.0.1",
+  "description": "方法失败重试",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "apcan",
+  "license": "ISC"
+}
